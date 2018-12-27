@@ -1,0 +1,128 @@
+/* ******* */
+/* GENERAL */
+/* ******* */
+
+.pageHeader {
+  margin-top: 1rem;
+}
+
+.greyText {
+  color: grey;
+}
+
+.contentDiv {
+  margin-top: 2rem;
+}
+
+.subContentDiv {
+  margin-top: 1rem;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #ededed;
+}
+
+/* HEADER */
+
+.headerBgColor {
+  background-color: #4286f4;
+  color: white;
+}
+
+/* ******* */
+/* TAB ROW */
+/* ******* */
+
+.tabRow a:hover {
+  cursor: pointer !important;
+}
+
+.tabRow {
+  margin-top: 1em;
+}
+
+/* ***** */
+/* CARDS */
+/* ***** */
+
+.glanceCards {
+  margin: 0 auto;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  float: none;
+}
+
+.quickCards {
+  width: 15rem;
+  margin: 1rem;
+}
+
+/* *********** */
+/* LINE COLORS */
+/* *********** */
+
+.redLineFg {
+  color: #ff0000;
+}
+
+.orangeLineFg {
+  color: #ff9933;
+}
+
+.yellowLineFg {
+  color: #ffff33;
+}
+
+.greenLineFg {
+  color: #389138;
+}
+
+.blueLineFg {
+  color: #0099cc;
+}
+
+.redLine {
+  background-color: #ff6363;
+}
+
+.orangeLine {
+  background-color: #ffb163;
+}
+
+.yellowLine {
+  background-color: #ffff63;
+}
+
+.greenLine {
+  background-color: #389138;
+}
+
+.blueLine {
+  background-color: #4daccc;
+}
+
+/* TIME COLORS */
+
+.shortTime {
+  color: green;
+}
+
+.mediumTime {
+  color: orange;
+}
+
+.longTime {
+  color: red;
+}
+/* ******** */
+/* STATIONS */
+/* ******** */
+
+.stationContainer {
+  margin-top: 3rem;
+}
+
+.centerButton {
+  margin: 0;
+}
